@@ -2,8 +2,7 @@
 
 - 👨🏻‍💻 Tech lover since 1993
 - 😎 Trying to become a developer
-- 🤯 Psychologist
-- 🧠 Psychoanalyst
+- 🧠 Psychologist and Psychoanalyst
 - 👨🏼‍🎨 Graphic designer
 
 <div align="center">
