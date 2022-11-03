@@ -1,12 +1,12 @@
-### Hi! I am André Porto 😅
+### Hi! I’m André Porto 😅
 
 - 👨🏻‍💻 Tech lover since 1993
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
 <div>
   <a href="https://github.com/andremporto">
-  <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=andremporto&theme=gotham&hide_border=true&area=true)
