@@ -3,8 +3,6 @@
 - 👨🏻‍💻 Tech lover since 1993
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
-- 👨🏼‍🎨 Graphic designer
-
 <div align="center">
   <a href="https://github.com/andremporto">
   <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
