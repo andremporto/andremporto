@@ -17,16 +17,17 @@
 
 ##
 <div>
+  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img src="https://aleen42.github.io/badges/src/illustrator.svg">
+</div>
+
+##
+<div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/dedecoporto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@AndrePorto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:andreporto@me.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-<div>
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-</div>
 
   
