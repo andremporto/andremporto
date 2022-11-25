@@ -29,3 +29,7 @@
   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img src="https://aleen42.github.io/badges/src/illustrator.svg">
 </div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&theme=material-palenight)](https://github.com/andremporto/github-readme-stats)
+  
