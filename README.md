@@ -1,6 +1,6 @@
 ### Hi... André Porto here! 😅
 
-- 👨🏻‍💻 Tech lover since 1993
+- 👨🏻‍💻 Tech lover since 1990
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
 
