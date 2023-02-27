@@ -1,5 +1,7 @@
 ### Hi... André Porto here! 😅
 
+I'm a beginner Python developer with a passion for programming and technology.
+
 - 👨🏻‍💻 Tech lover since 1990
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
