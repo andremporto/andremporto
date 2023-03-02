@@ -7,8 +7,10 @@ I'm a beginner Python developer with a passion for programming and technology.
 - 🧠 Psychologist and Psychoanalyst
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&theme=material-palenight)](https://github.com/andremporto/github-readme-stats)
 
+## Stacks
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
@@ -25,13 +27,13 @@ I'm a beginner Python developer with a passion for programming and technology.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
 
-##
+## Graphic Design
 <div>
   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img src="https://aleen42.github.io/badges/src/illustrator.svg">
 </div>
 
-## Social
+## Social networks
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
