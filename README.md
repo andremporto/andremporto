@@ -6,9 +6,7 @@ I'm a beginner Python developer with a passion for programming and technology.
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&theme=material-palenight)](https://github.com/andremporto/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&theme=material-palenight)](https://github.com/andremporto/github-readme-stats)
 
 ## Stacks
 <div style="display: inline_block"><br>
