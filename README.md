@@ -6,11 +6,10 @@ I'm a beginner Python developer with a passion for programming and technology.
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
 
-<div>
-  <a href="https://github.com/andremporto">
-  <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
+<a href="https://github.com/andremporto"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+
+## Overview
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
 
 ## Stacks
 <div style="display: inline_block"><br>
