@@ -1,14 +1,11 @@
 ### Hi... André Porto here! 😅
 
-I'm a beginner Python developer with a passion for programming and technology.
-
 - 👨🏻‍💻 Tech lover since 1990
 - 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
 
 <a href="https://github.com/andremporto"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 
-## Overview
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
 
 ## Stacks
