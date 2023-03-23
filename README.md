@@ -22,7 +22,7 @@
 </div>
 
 ## Metrics
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
 
 
 ## Graphic Design
