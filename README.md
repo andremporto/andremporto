@@ -1,8 +1,9 @@
 # Hi... André Porto here! 😅
 
 - 👨🏻‍💻 Tech lover since 1990
-- 😎 Trying to become a developer
 - 🧠 Psychologist and Psychoanalyst
+
+As a Data Analyst student and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with JavaScript, HTML, CSS, React, Node.js, Next.js, and Python. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
 
 ## Stacks
 <div style="display: inline_block"><br>
