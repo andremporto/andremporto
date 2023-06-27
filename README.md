@@ -1,4 +1,4 @@
-# Hi... André Porto here! 😅
+# Hi... André Porto here!
 
 - 👨🏻‍💻 Tech lover since 1990
 - 🧠 Psychologist and Psychoanalyst
