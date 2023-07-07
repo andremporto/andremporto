@@ -18,8 +18,6 @@ As a iOS Developer student and frontend developer with a passion for creating st
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=great-gatsby)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=great-gatsby"/>
 
 ## Social networks
