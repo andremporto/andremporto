@@ -1,4 +1,4 @@
-![Andre Porto Banner](https://raw.githubusercontent.com/andremporto/andremporto/main/AndrePorto-README.png)
+![Andre Porto Banner](./AndrePorto-README.png)
 
 As a iOS Developer student and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, JavaScript, HTML, CSS, and Python. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
 
