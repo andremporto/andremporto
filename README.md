@@ -1,29 +1,26 @@
 ![Andre Porto Banner](./AndrePorto-README.png)
 
-As a iOS Developer student and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, JavaScript, HTML, CSS, and Python. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
-
-## Stacks
+#### As a iOS Developer student and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, JavaScript, HTML, CSS, and Python. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" height="47" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+<br>
 
-## Metrics
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=material-palenight"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&theme=great-gatsby)
 
-## Graphic Design
-
-<div>
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=great-gatsby"/>
 
 ## Social networks
 
