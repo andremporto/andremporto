@@ -20,7 +20,7 @@ As a iOS Developer student and frontend developer with a passion for creating st
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=great-gatsby"/>
 
-## Social networks
+## Follow me
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
