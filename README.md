@@ -1,6 +1,6 @@
 ![Andre Porto Banner](./AndrePorto-README.png)
 
-As a iOS Developer student and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, SwiftUI, UIKit, JavaScript, HTML, CSS, SQL, Power BI, Python and many others. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
+As a Designer, iOS Developer and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, SwiftUI, UIKit, JavaScript, HTML, CSS, SQL, Power BI, Python and many others. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
