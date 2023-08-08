@@ -1,18 +1,15 @@
-![Andre Porto Banner](./README.png)
-
-As an iOS Developer, Designer and frontend developer with a passion for creating stunning, user-centric interfaces, I specialize in working with Swift, SwiftUI, UIKit, JavaScript, HTML, CSS, SQL, Power BI, Python and many others. With extensive experience in designing and implementing engaging website and application interfaces, I am committed to delivering top-quality results that exceed expectations.
+[![Andre Porto Banner](./README.png)](https://andreporto.vercel.app)
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" height="47" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/apple.svg" target="_blank">
+  <img align="center" height="55" width="55" src="https://andreporto.vercel.app/assets/icons/ios.svg" target="_blank">
+  <img align="center" height="55" width="55" src="https://andreporto.vercel.app/assets/icons/macos.svg" target="_blank">
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+  <img align="center" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" height="40" width="40" src="https://andreporto.vercel.app/assets/icons/cocoapods.svg" target="_blank">
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 <br>
 
@@ -23,8 +20,7 @@ As an iOS Developer, Designer and frontend developer with a passion for creating
 ## Follow me
 
 <div>
-    <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/andreporto.78/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@AndrePorto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreporto@me.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
+    <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/instagram.svg" target="_blank"></a><a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/twitter.svg" target="_blank"></a>
+    <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/mail.svg" target="_blank"></a>
 </div>
