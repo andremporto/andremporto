@@ -1,7 +1,7 @@
 [![Andre Porto Banner](./README.png)](https://andreporto.vercel.app)
 
 <div style="display: inline_block"><br>
-  <img href="#" align="center" height="48" width="48" pointer-events="none" src="https://andreporto.vercel.app/assets/icons/apple.svg" target="_blank">
+  <a><img align="center" height="48" width="48" pointer-events="none" src="https://andreporto.vercel.app/assets/icons/apple.svg" target="_blank"></a>
   <img align="center" height="53" width="53" src="https://andreporto.vercel.app/assets/icons/ios.svg" target="_blank">
   <img align="center" height="53" width="53" src="https://andreporto.vercel.app/assets/icons/macos.svg" target="_blank">
   <img align="center" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
