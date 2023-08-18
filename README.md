@@ -6,9 +6,8 @@ iOS Developer from Brazil focused on delivering exceptional results through inno
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/instagram.svg" target="_blank"></a><a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/twitter.svg" target="_blank"></a>
     <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/mail.svg" target="_blank"></a>
+    <hr>
 </div>
-<br>
-<hr>
 <div style="display: inline_block"><br>
   <img align="center" height="45" width="45" pointer-events="none" src="https://andreporto.vercel.app/assets/icons/apple.svg" target="_blank">
   <img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/ios.svg" target="_blank">
