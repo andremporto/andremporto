@@ -20,6 +20,7 @@ iOS Developer from Brazil focused on delivering exceptional results through inno
   <img align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="44" width="44" src="https://andreporto.vercel.app/assets/icons/python.svg" target="_blank">
   <img align="center" height="41" width="41" src="https://andreporto.vercel.app/assets/icons/js.svg" target="_blank">
+  <img align="center" height="38" width="38" src="https://andreporto.vercel.app/assets/icons/sql.svg" target="_blank">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
