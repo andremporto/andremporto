@@ -3,8 +3,9 @@
 iOS Developer from Brazil focused on delivering exceptional results through innovative app development, optimization, and integration using SwiftUI. With a background in Psychology and Graphic Design, I bring over 20 years of experience in design, web development, and User Interface Design. Along this journey, I've acquired knowledge in other programming languages such as JavaScript, Python, SQL, and data, in addition to Swift.
 
 <div>
-    <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
-    <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/instagram.svg" target="_blank"></a><a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/twitter.svg" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
+    <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="26" width="26" src="https://andreporto.vercel.app/assets/icons/instagram.svg" target="_blank"></a>
+    <a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="" src="https://andreporto.vercel.app/assets/icons/twitter.svg" target="_blank"></a>
     <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/mail.svg" target="_blank"></a>
     <hr>
 </div>
