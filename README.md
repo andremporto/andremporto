@@ -14,11 +14,20 @@ iOS Developer from Brazil focused on delivering exceptional results through inno
   <img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/ios.svg" target="_blank">
   <img align="center" height="50" width="50" src="https://andreporto.vercel.app/assets/icons/macos.svg" target="_blank">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" height=45" width=45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+  <!-- <img align="center" height=45" width=45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"> -->
   <img align="center" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" height="35" width="35" src="https://andreporto.vercel.app/assets/icons/cocoapods.svg" target="_blank">
-  <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="44" width="44" src="https://andreporto.vercel.app/assets/icons/python.svg" target="_blank">
+  <img align="center" height="41" width="41" src="https://andreporto.vercel.app/assets/icons/js.svg" target="_blank">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" height="45" width="45" src="https://andreporto.vercel.app/assets/icons/pixelmator.png">
+  <img align="center" height="45" width="45" src="https://andreporto.vercel.app/assets/icons/photoshop.png">
+  <img align="center" height="45" width="45" src="https://andreporto.vercel.app/assets/icons/illustrator.png">
+  <img align="center" height="45" width="45" src="https://andreporto.vercel.app/assets/icons/lightroom.png">
+  <img align="center" height="45" width="45" src="https://andreporto.vercel.app/assets/icons/corel.png">
 </div>
 <br>
 
