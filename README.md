@@ -1,6 +1,8 @@
 [![Andre Porto Banner](./README.png)](https://andreporto.vercel.app)
 
-iOS Developer from Brazil focused on delivering exceptional results through innovative app development, optimization, and integration using SwiftUI. With a background in Psychology and Graphic Design, I bring over 20 years of experience in design, web development, and User Interface Design. Along this journey, I've acquired knowledge in other programming languages such as JavaScript, Python, SQL, and data, in addition to Swift.
+Brazilian iOS developer focused on delivering exceptional results through innovative app development, optimization and integration using SwiftUI.
+
+With a background in psychology and graphic design, I bring over 20 years of experience in design, web development, and user interface design. Along the way, I've acquired knowledge in other programming languages such as JavaScript, Python, SQL and Data, in addition to Swift.
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
