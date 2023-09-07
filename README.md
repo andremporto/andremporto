@@ -35,3 +35,7 @@ iOS Developer from Brazil focused on delivering exceptional results through inno
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dark"/>
+
+## Medium Articles
+
+![Andre blog](https://github-read-medium.vercel.app/latest?username=andremporto&limit=6&theme=great-gatsby)
