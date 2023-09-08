@@ -6,6 +6,7 @@ With a background in psychology and graphic design, I bring over 20 years of exp
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="https://andreporto.vercel.app/assets/icons/linkedin.svg" target="_blank"></a>
+    <a href="https://medium.com/@andremporto" target="_blank"><img align="center" height="32" width="32" src="https://andreporto.vercel.app/assets/icons/medium.svg" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="26" width="26" src="https://andreporto.vercel.app/assets/icons/instagram.svg" target="_blank"></a>
     <a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="" src="https://andreporto.vercel.app/assets/icons/twitter.svg" target="_blank"></a>
     <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="30" width="30" src="https://andreporto.vercel.app/assets/icons/mail.svg" target="_blank"></a>
@@ -37,7 +38,3 @@ With a background in psychology and graphic design, I bring over 20 years of exp
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dark"/>
-
-## Medium Articles
-
-![Andre blog](https://github-read-medium.vercel.app/latest?username=andremporto&limit=6&theme=great-gatsby)
