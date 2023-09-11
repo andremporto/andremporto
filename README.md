@@ -24,7 +24,7 @@ With a background in psychology and graphic design, I bring over 20 years of exp
   <!-- <img align="center" height=45" width=45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"> -->
   <img align="center" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" height="35" width="35" src="./icons/cocoapods.svg" target="_blank">
-  <img align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<!--   <img align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -->
   <img align="center" height="44" width="44" src="./icons/python.svg" target="_blank">
   <img align="center" height="41" width="41" src="./icons/js.svg" target="_blank">
   <img align="center" height="38" width="38" src="./icons/sql.svg" target="_blank">
