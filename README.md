@@ -2,7 +2,7 @@
 
 Brazilian iOS developer focused on delivering exceptional results through innovative app development, optimization and integration using SwiftUI.
 
-With a background in psychology and graphic design, I bring over 20 years of experience in design, web development, and user interface design. Along the way, I've acquired knowledge in other programming languages such as JavaScript, Python, SQL and Data, in addition to Swift.
+With a background in psychology and graphic design, I bring over 20 years of experience in design, web development and user interface design. Along the way, I've learned other programming languages in addition to Swift, including JavaScript, Python, SQL, Data Analysis and many others.
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
@@ -14,7 +14,7 @@ With a background in psychology and graphic design, I bring over 20 years of exp
     <!-- <hr> -->
 </div>
 
-## Stacks
+## My spot
 
 <div style="display: inline_block">
   <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank">
