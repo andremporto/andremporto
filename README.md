@@ -7,7 +7,6 @@ With a background in graphic design and psychology, I bring over 20 years of exp
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="./icons/linkedin.svg" target="_blank"></a>
-    <a href="https://medium.com/@andremporto" target="_blank"><img align="center" height="32" width="32" src="./icons/medium.svg" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="26" width="26" src="./icons/instagram.svg" target="_blank"></a>
     <a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="" src="./icons/twitter.svg" target="_blank"></a>
     <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="30" width="30" src="./icons/mail.svg" target="_blank"></a>
