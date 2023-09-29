@@ -13,7 +13,7 @@ With a background in graphic design and psychology, I bring over 20 years of exp
     <!-- <hr> -->
 </div>
 
-## My spot
+## Stacks
 
 <div style="display: inline_block">
   <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank">
@@ -39,7 +39,7 @@ With a background in graphic design and psychology, I bring over 20 years of exp
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats) -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dark"/>
 
