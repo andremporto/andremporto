@@ -1,6 +1,6 @@
 [![Andre Porto Banner](./README.png)](https://andreporto.vercel.app)
 
-I am a Brazilian iOS developer with over 20 years of experience in design, web development, and user interface design. I am focused on delivering exceptional results through innovative app development, optimization, and integration using SwiftUI.
+I'm a Brazilian iOS developer with over 20 years of experience in design, web development, and user interface design. I am passionate about building innovative and user-friendly apps using SwiftUI, and I am committed to delivering exceptional results for my clients.
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
