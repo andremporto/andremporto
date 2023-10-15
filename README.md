@@ -1,6 +1,9 @@
 [![Andre Porto Banner](./README.png)](https://andreporto.vercel.app)
 
-I'm a Brazilian iOS developer with over 20 years of experience in design, web development, and user interface design. I am passionate about building innovative and user-friendly apps using SwiftUI, and I am committed to delivering exceptional results for my clients.
+🇧🇷 I'm a Brazilian iOS developer <br>
+⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
+🧑🏻‍💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
+📈 Committed to delivering exceptional results for my clients.
 
 <div>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
@@ -11,7 +14,7 @@ I'm a Brazilian iOS developer with over 20 years of experience in design, web de
     <!-- <hr> -->
 </div>
 
-## Core stacks
+## Core Stacks
 
 <div style="display: inline_block">
   <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank">
@@ -35,7 +38,7 @@ I'm a Brazilian iOS developer with over 20 years of experience in design, web de
   <img align="center" height="45" width="45" src="./icons/corel.png">
 </div>
 
-## Core stats
+## Core Stats
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats) -->
 
