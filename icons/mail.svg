@@ -4,12 +4,10 @@
 <defs>
 <radialGradient id="paint0_radial_263_132" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.15521e-05 385.654) scale(751.739 17183.6)">
 <stop stop-color="#EBD665"/>
-<stop offset="0.296875" stop-color="#DAAE83"/>
 <stop offset="1" stop-color="#E43F3E"/>
 </radialGradient>
 <radialGradient id="paint1_radial_263_132" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(538.411 578.366) scale(261.589 7618.19)">
 <stop stop-color="#EBD665"/>
-<stop offset="0.296875" stop-color="#DAAE83"/>
 <stop offset="1" stop-color="#E43F3E"/>
 </radialGradient>
 </defs>
