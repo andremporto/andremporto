@@ -6,7 +6,7 @@
 📈 Committed to delivering exceptional results for my clients.
 
 <div>
-    <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
+    <a href="https://andreporto.dev.br" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="./icons/linkedin.svg" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="26" width="26" src="./icons/instagram.svg" target="_blank"></a>
     <a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="" src="./icons/twitter.svg" target="_blank"></a>
