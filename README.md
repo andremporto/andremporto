@@ -3,7 +3,7 @@
 🇧🇷 I'm a Brazilian iOS Developer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
 🧑🏻‍💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
-📈 Committed to delivering exceptional results for my clients.
+📈 Committed to delivering exceptional and beautiful results.
 
 <div>
     <a href="https://andreporto.dev.br" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
