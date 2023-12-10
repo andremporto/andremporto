@@ -111,3 +111,28 @@ let developer = Developer()
 [![Instagram Badge](https://img.shields.io/badge/-andreporto.78-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/andreporto.78/)](https://instagram.com/andreporto.78)
 [![Twitter: andremporto](https://img.shields.io/twitter/follow/andremporto?style=social)](https://twitter.com/andremporto)
 [![GitHub andremporto](https://img.shields.io/github/followers/andremporto?label=follow&style=social)](https://github.com/andremporto) -->
+
+<table>
+    <tr>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=andremporto&show_icons=true&locale=en&layout=compact&theme=dracula"
+                alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&locale=en&theme=dracula" alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=andremporto&theme=dracula"
+                alt="Github stats"
+            />
+        </td>
+    </tr>
+</table>
