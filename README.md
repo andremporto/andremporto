@@ -1,20 +1,71 @@
 [![Andre Porto Banner](./README.png)](https://andreporto.dev.br)
 
-🇧🇷 I'm a Brazilian iOS Developer <br>
+<!-- 🇧🇷 I'm a Brazilian iOS Developer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
 🧑🏻‍💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
-📈 Committed to delivering exceptional and beautiful results.
+📈 Committed to delivering exceptional and beautiful results. -->
 
-<div>
+```swift
+class Me {
+    var name: String
+    var nationality: String
+    var email: String
+    var linkedin: String
+    var portfolio: String
+
+    init() {
+        name = "André Porto"
+        nationality = "Brazilian"
+        email = "andreporto@me.com"
+        linkedin = "https://www.linkedin.com/in/andremporto/"
+        portfolio = "https://andreporto.dev.br"
+    }
+}
+
+class Developer: Me {
+    var languages: [String]
+    var frameworks: [String]
+
+    override init() {
+        languages  = ["Swift"]
+        frameworks = ["SwiftUI",
+                      "UIKit",
+                      "Viewcode",
+                      "SwiftData",
+                      "Core Data",
+                      "Combine"]
+        super.init()
+    }
+}
+
+let developer = Developer()
+```
+
+## Get in touch
+
+<!-- <div align="center"> -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://andreporto.dev.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-lima/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreporto.78/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andremporto)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreporto@me.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/r41lge9dobl6x7smg65d4o5fr)
+
+<!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrjwgVR-_e4tFPhOutC9F9A) -->
+
+<!-- </div> -->
+
+<!-- <div>
     <a href="https://andreporto.dev.br" target="_blank"><img align="center" height="32" width="32" src="./icons/web.svg" target="_blank"></a>
     <a href="https://www.linkedin.com/in/andremporto/" target="_blank"><img align="center" height="26" width="26" src="./icons/linkedin.svg" target="_blank"></a>
     <a href="https://www.instagram.com/andreporto.78" target="_blank"><img align="center" height="26" width="26" src="./icons/instagram.svg" target="_blank"></a>
     <a href="https://twitter.com/andremporto" target="_blank"><img align="center" height="30" width="" src="./icons/twitter.svg" target="_blank"></a>
     <a href="mailto:andreporto@me.com" target="_blank"><img align="center" height="30" width="30" src="./icons/mail.svg" target="_blank"></a>
     <!-- <hr> -->
-</div>
+<!-- </div> -->
 
-## Core Stacks
+## Language Stacks
 
 <div style="display: inline_block">
   <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank">
@@ -29,7 +80,10 @@
   <img align="center" height="41" width="41" src="./icons/js.svg" target="_blank">
   <img align="center" height="38" width="38" src="./icons/sql.svg" target="_blank">
 </div>
-<div style="display: inline_block"><br>
+
+## Design Stacks
+
+<div style="display: inline_block">
   <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" height="45" width="45" src="./icons/pixelmator.png">
   <img align="center" height="45" width="45" src="./icons/photoshop.png">
