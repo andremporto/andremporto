@@ -136,3 +136,28 @@ let developer = Developer()
         </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=kaualimaa&show_icons=true&locale=en&layout=compact&theme=dracula"
+                alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api?username=kaualimaa&show_icons=true&locale=en&theme=dracula" alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=kaualimaa&theme=dracula"
+                alt="Github stats"
+            />
+        </td>
+    </tr>
+</table>
