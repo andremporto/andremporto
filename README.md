@@ -12,6 +12,8 @@
 📈 Committed to delivering exceptional and beautiful results. -->
 
 ```swift
+import SwiftUI
+
 class Me {
     var name: String
     var nationality: String
