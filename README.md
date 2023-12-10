@@ -103,7 +103,7 @@ let developer = Developer()
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=andremporto&theme=dark)](https://git.io/streak-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dark"/> -->
 
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://andreporto.vercel.app)](https://andreporto.vercel.app)
 [![Linkedin: andremporto](https://img.shields.io/badge/-andremporto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremporto/)](https://www.linkedin.com/in/andremporto/)
@@ -121,12 +121,12 @@ let developer = Developer()
                 alt="Github stats"
             />
         </td>
-        <td align="center">
+        <!-- <td align="center">
             <img
                 align="center"
                 src="https://github-readme-stats.vercel.app/api?username=andremporto&show_icons=true&locale=en&theme=dracula" alt="Github stats"
             />
-        </td>
+        </td> -->
         <td align="center">
             <img
                 align="center"
