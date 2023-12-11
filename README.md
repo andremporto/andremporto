@@ -2,8 +2,8 @@
 
 🇧🇷 I'm a Brazilian iOS Engineer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
-🧑🏻‍💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
-📈 Committed to delivering exceptional and beautiful results.
+💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
+🎨 Committed to delivering exceptional and beautiful results.
 
 ## Get in touch
 
