@@ -1,5 +1,7 @@
 [![Andre Porto Banner](Readme.png)](https://andreporto.dev.br)
 
+[![Banner](./Readme.png)](https://andreporto.dev.br)
+
 🇧🇷 I'm a Brazilian iOS Engineer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
 💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
