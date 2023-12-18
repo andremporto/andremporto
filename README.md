@@ -1,4 +1,4 @@
-[![Andre Porto Banner](./Readme.png)](https://andreporto.dev.br)
+[![Andre Porto Banner](Readme.png)](https://andreporto.dev.br)
 
 🇧🇷 I'm a Brazilian iOS Engineer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
