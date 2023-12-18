@@ -1,5 +1,3 @@
-[![Andre Porto Banner](Readme.png)](https://andreporto.dev.br)
-
 [![Banner](./Readme.png)](https://andreporto.dev.br)
 
 🇧🇷 I'm a Brazilian iOS Engineer <br>
