@@ -1,4 +1,4 @@
-[![Banner](/Readme.png)](https://andreporto.dev.br)
+[![Banner](README.png)](https://andreporto.dev.br)
 
 <!-- # Hi, I'm André Porto
 
