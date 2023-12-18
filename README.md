@@ -1,9 +1,5 @@
 [![Banner](README.png)](https://andreporto.dev.br)
 
-<!-- # Hi, I'm André Porto
-
-## iOS Engineer -->
-
 🇧🇷 I'm a Brazilian iOS Engineer <br>
 ⌛️ Over 20 years of experience in design, web development, and user interface design.<br>
 💻 I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
