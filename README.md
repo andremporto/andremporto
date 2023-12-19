@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremporto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreporto.78/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/andremporto)
-[![Gmail](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=maildotru&logoColor=gray)](mailto:andreporto@me.com)
+[![Gmail](https://img.shields.io/badge/Email-dcdcdc?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:andreporto@me.com)
 
 ## Language Stacks
 
