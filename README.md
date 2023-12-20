@@ -49,3 +49,7 @@ Over 20 years of experience in design, web development, and user interface desig
 ## Core Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dracula"/>
+
+### Support Me
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/andremporto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
