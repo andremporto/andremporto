@@ -52,4 +52,4 @@ Over 20 years of experience in design, web development, and user interface desig
 
 ### Support Me
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/andremporto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<a href="https://www.buymeacoffee.com/andremporto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
