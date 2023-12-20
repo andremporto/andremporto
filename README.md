@@ -1,20 +1,23 @@
 [![Banner](./icons/README.png)](https://andreporto.dev.br)
 
-🇧🇷 &nbsp; &nbsp;I'm a Brazilian iOS Engineer <br>
-⌛️ &nbsp; &nbsp;Over 20 years of experience in design, web development, and user interface design.<br>
-💻 &nbsp; &nbsp;I am passionate about building innovative and user-friendly apps using SwiftUI.<br>
-🎨 &nbsp; &nbsp;Committed to delivering exceptional and beautiful results.<br>
-☕️ &nbsp; &nbsp;Coffee Oriented Developer
+Over 20 years of experience in design, web development, and user interface design. I am passionate about building innovative user-friendly apps using SwiftUI and committed to delivering exceptional and beautiful results. Coffee Oriented Developer ☕️
 
-## Get in touch
+- 🌍 I'm based in Brazil
+- 🖥️ See my portfolio at [andreporto.dev](http://andreporto.dev.br)
+- ✉️ You can contact me at [andreporto@me.com](mailto:andreporto@me.com)
+- 🚀 I'm currently working on [Jr. SwiftLab](http://andreporto.dev.br/jrswiftlab.app.html)
+- 🧠 I'm learning ViewCode right now
+
+## Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://andreporto.dev.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremporto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreporto.78/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/andremporto)
-[![Gmail](https://img.shields.io/badge/Email-dcdcdc?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:andreporto@me.com)
 
-## Language Stacks
+<!-- [![Gmail](https://img.shields.io/badge/Email-dcdcdc?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:andreporto@me.com) -->
+
+## Language Skills
 
 <div style="display: inline_block">
   <!-- <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank"> -->
@@ -32,7 +35,7 @@
   <img align="center" height="38" width="38" src="./icons/sql.svg" target="_blank">
 </div>
 
-## UI/UX Stacks
+## UI/UX Skills
 
 <div style="display: inline_block">
   <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
