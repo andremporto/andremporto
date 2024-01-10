@@ -1,8 +1,4 @@
-# Hi, I'm André Porto
-
-###  iOS Engineer
-
-<!-- [![Banner](./icons/README.png)](https://andreporto.dev.br) -->
+[![Banner](./icons/README.png)](https://andreporto.dev.br)
 
 Over 20 years of experience in design, web development, and user interface design. I am passionate about building innovative user-friendly apps using SwiftUI and committed to delivering exceptional and beautiful results. Coffee Oriented Developer ☕️
 
