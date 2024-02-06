@@ -6,7 +6,7 @@ Over 20 years of experience in design, web development, and user interface desig
 - 🖥️ See my portfolio at [andreporto.dev](http://andreporto.dev.br)
 - ✉️ You can contact me at [andreporto@me.com](mailto:andreporto@me.com)
 - 🚀 I'm currently working on [Jr. SwiftLab](http://andreporto.dev.br/jrswiftlab.app.html)
-- 🧠 I'm learning ViewCode right now
+- 🧠 Right now, I'm trying to learn ViewCode
 
 ## Socials
 
