@@ -1,6 +1,6 @@
 [![Banner](./icons/README.png)](https://andreporto.dev.br)
 
-Over 20 years of experience in design, web development, and user interface design. I am passionate about building innovative user-friendly apps using SwiftUI and committed to delivering exceptional and beautiful results. Coffee Oriented Developer ☕️
+iOS developer working as an Indie developer on my personal projects. With a degree in Design and Psychology, I have 20 years' experience in graphic design, front-end development and user interface design, as well as experience in typography, UI/UX. Where teamwork is essential, we focus on efficiency, sustainability, optimization and integration.</br> ☕️ A Coffee Oriented Developer.
 
 - 🌍 I'm based in Brazil
 - 🖥️ See my portfolio at [andreporto.dev](http://andreporto.dev.br)
@@ -8,7 +8,7 @@ Over 20 years of experience in design, web development, and user interface desig
 - 🚀 I'm currently working on [Jr. SwiftLab](http://andreporto.dev.br/jrswiftlab.app.html)
 - 🧠 Right now, I'm trying to learn ViewCode
 
-## Socials
+## Social
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://andreporto.dev.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremporto/)
@@ -17,7 +17,7 @@ Over 20 years of experience in design, web development, and user interface desig
 
 <!-- [![Gmail](https://img.shields.io/badge/Email-dcdcdc?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:andreporto@me.com) -->
 
-## Language Skills
+## Skills
 
 <div style="display: inline_block">
   <!-- <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank"> -->
@@ -35,7 +35,7 @@ Over 20 years of experience in design, web development, and user interface desig
   <img align="center" height="38" width="38" src="./icons/sql.svg" target="_blank">
 </div>
 
-## UI/UX Skills
+## UI/UX
 
 <div style="display: inline_block">
   <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
