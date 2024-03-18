@@ -50,6 +50,6 @@ iOS developer working as an Indie developer on my personal projects. With a degr
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dracula"/>
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/andremporto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.buymeacoffee.com/andremporto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a> -->
