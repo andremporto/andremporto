@@ -1,6 +1,10 @@
 [![Banner](./icons/README.png)](https://andreporto.dev.br)
 
-iOS developer working as an Indie developer on my personal projects. With a degree in Design and Psychology, I have 20 years' experience in graphic design, front-end development and user interface design, as well as experience in typography, UI/UX. Where teamwork is essential, we focus on efficiency, sustainability, optimization and integration.</br> ☕️ A Coffee Oriented Developer.
+<p>
+Mobile iOS Developer. With a degree in design and psychology, I have 20 years of experience in graphic design, front-end development and user interface design, as well as experience in typography and UI/UX. Where teamwork is essential, I focus on efficiency, sustainability, optimization, integration and innovation.
+</P>
+
+☕️ A Coffee Oriented Developer.
 
 - 🌍 I'm based in Brazil
 - 🖥️ See my portfolio at [andreporto.dev](http://andreporto.dev.br)
