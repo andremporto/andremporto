@@ -8,7 +8,7 @@ I'm a Mobile iOS Developer with a degree in design and psychology. 20+ years of 
 
 ☕️ A Coffee Oriented Developer.
 
-- 🌍 Based in Brazil
+- 🇧🇷 Based in Brazil
 - 🖥️ Reach my portfolio at [andreporto.dev](http://andreporto.dev.br)
 - ✉️ Contact me at [andreporto@me.com](mailto:andreporto@me.com)
 - 🚀 Currently working at [Greenstand](https://greenstand.org) as a volunteer
