@@ -1,7 +1,9 @@
-[![Banner](./icons/README.png)](https://andreporto.dev.br)
+<!-- [![Banner](./icons/README.png)](https://andreporto.dev.br) -->
+
+# Hi, I'm André Porto 👋
 
 <p>
-Mobile iOS Developer. With a degree in design and psychology, I have 20 years of experience in graphic design, front-end development and user interface design, as well as experience in typography and UI/UX. Where teamwork is essential, I focus on efficiency, sustainability, optimization, integration and innovation.
+I'm a Mobile iOS Developer. With a degree in design and psychology, I have 20 years of experience in graphic design, front-end development and user interface design, as well as experience in typography and UI/UX. Where teamwork is essential, I focus on efficiency, sustainability, optimization, integration and innovation.
 </P>
 
 ☕️ A Coffee Oriented Developer.
@@ -9,8 +11,7 @@ Mobile iOS Developer. With a degree in design and psychology, I have 20 years of
 - 🌍 I'm based in Brazil
 - 🖥️ See my portfolio at [andreporto.dev](http://andreporto.dev.br)
 - ✉️ You can contact me at [andreporto@me.com](mailto:andreporto@me.com)
-- 🚀 I'm currently working on [Jr. SwiftLab](http://andreporto.dev.br/jrswiftlab.app.html)
-- 🧠 Right now, I'm trying to learn ViewCode
+- 🚀 I'm currently working at [Greenstand](https://greenstand.org) as a volunteer
 
 ## Social
 
@@ -18,8 +19,6 @@ Mobile iOS Developer. With a degree in design and psychology, I have 20 years of
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremporto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreporto.78/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/andremporto)
-
-<!-- [![Gmail](https://img.shields.io/badge/Email-dcdcdc?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:andreporto@me.com) -->
 
 ## Skills
 
