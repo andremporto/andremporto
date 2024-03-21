@@ -3,7 +3,7 @@
 # Hi, I'm André Porto 👋
 
 <p>
-I'm a Mobile iOS Developer. With a degree in design and psychology, I have 20 years of experience in graphic design, front-end development and user interface design, as well as experience in typography and UI/UX. Where teamwork is essential, I focus on efficiency, sustainability, optimization, integration and innovation.
+I'm a Mobile iOS Developer with a degree in design and psychology. 20+ years of experience in graphic design, front-end development and user interface design, as well as experience in typography and UI/UX. Where teamwork is essential, I focus on efficiency, sustainability, optimization, integration and innovation.
 </P>
 
 ☕️ A Coffee Oriented Developer.
