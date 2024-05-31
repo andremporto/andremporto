@@ -20,7 +20,7 @@ I'm a Mobile iOS Developer and Data Scientist with a degree in design and psycho
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreporto.78/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/andremporto)
 
-## Skills
+## Programing skills
 
 <div style="display: inline_block">
   <!-- <img align="center" height="45" width="45" pointer-events="none" src="./icons/apple.svg" target="_blank"> -->
@@ -38,7 +38,7 @@ I'm a Mobile iOS Developer and Data Scientist with a degree in design and psycho
   <img align="center" height="38" width="38" src="./icons/sql.svg" target="_blank">
 </div>
 
-## UI/UX
+## Design skills
 
 <div style="display: inline_block">
   <img align="center" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
