@@ -49,7 +49,7 @@ I'm a Mobile iOS Developer and Data Scientist with a degree in design and psycho
   <img align="center" height="45" width="45" src="./icons/corel.png">
 </div>
 
-## Core Stats
+## Language Status
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremporto&layout=compact&langs_count=7&theme=dracula"/>
 
