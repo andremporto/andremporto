@@ -11,7 +11,6 @@ I'm a Mobile iOS Developer and Data Scientist with a degree in design and psycho
 - 🇧🇷 Based in Brazil
 - 🖥️ Reach my portfolio at [My Website](https://andreporto.vercel.app/)
 - ✉️ Contact me at [andreporto@me.com](mailto:andreporto@me.com)
-- 🚀 Currently volunteer iOS developer at [Greenstand](https://greenstand.org)
 
 ## Social
 
